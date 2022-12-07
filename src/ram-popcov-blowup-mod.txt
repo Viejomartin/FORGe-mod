@@ -1,0 +1,5 @@
+Memory usage start: 116604 (kb)
+Memory usage after  genome created: 118116 (kb)
+Memory usage after  variants created: 120648 (kb)
+Memory usage after  ranking created: 120648 (kb)
+Running time: 0.15390753746032715 seconds
