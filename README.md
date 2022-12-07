@@ -1,5 +1,7 @@
 # FORGe (modified) tool for ranking variants and building an optimal graph genome
 
+There is a Jupyter Notebook in the folder /src/ where you can interact with the scripts without the use of a console.
+
 This modified script contains 2 scripts -- `rank_mod.py` and `build.py` -- as well as a helper script `vcf_to_1ksnp.py` for generating input files in the proper format.
 
 ## vcf_to_1ksnp.py ##
